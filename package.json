@@ -1,17 +1,17 @@
 {
-  "name": "react-prototypes",
+  "name": "React_projects",
   "version": "1.0.0",
-  "description": "React prototypes for learning React, pairs with http://reactPrototypes.com",
+  "description": "starter for all react projects",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott Bowler",
+  "author": "Khaleel Younis",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react-prototypes.git"
+    "url": "https://github.com/stallenvp/React_projects.git"
   },
   "dependencies": {
     "react": "^15.4.2",
